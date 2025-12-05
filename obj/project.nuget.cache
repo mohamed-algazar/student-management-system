@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/Micu12gEk=",
+  "success": true,
+  "projectFilePath": "E:\\MERN Stack Developement\\F# -App\\StudentManagementWeb.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.ast\\4.2.1\\fable.ast.4.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.browser.blob\\1.1.4\\fable.browser.blob.1.1.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.browser.dom\\2.4.4\\fable.browser.dom.2.4.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.browser.event\\1.4.4\\fable.browser.event.1.4.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.browser.gamepad\\1.0.3\\fable.browser.gamepad.1.0.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.browser.webstorage\\1.0.4\\fable.browser.webstorage.1.0.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.core\\4.3.0\\fable.core.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.elmish\\4.1.0\\fable.elmish.4.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.elmish.react\\4.0.0\\fable.elmish.react.4.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.react.types\\18.3.0\\fable.react.types.18.3.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fable.reactdom.types\\18.2.0\\fable.reactdom.types.18.2.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\feliz\\2.7.0\\feliz.2.7.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\feliz.compilerplugins\\2.2.0\\feliz.compilerplugins.2.2.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\fsharp.core\\10.0.100\\fsharp.core.10.0.100.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+E:\MERN Stack Developement\F# -App\bin\Debug\net8.0\StudentManagementWeb.fable-temp.deps.json
+E:\MERN Stack Developement\F# -App\obj\Debug\net8.0\StudentManagementWeb.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MERN Stack Developement\F# -App\obj\Debug\net8.0\StudentManagementWeb.fable-temp.AssemblyInfoInputs.cache
+E:\MERN Stack Developement\F# -App\obj\Debug\net8.0\StudentManagementWeb.fable-temp.AssemblyInfo.cs
