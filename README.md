@@ -141,11 +141,6 @@ View comprehensive statistics including class averages, grade distributions, and
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Author
-
-**Mohamed Algazar**
-- GitHub: [@mohamed-algazar](https://github.com/mohamed-algazar)
-
 
 - Built with F# and Fable
 - Webpack for bundling
