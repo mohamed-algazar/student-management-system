@@ -1,0 +1,11 @@
+# .NET / F#
+bin/
+obj/
+
+# Node / Fable
+node_modules/
+fable_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
